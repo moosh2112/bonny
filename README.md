@@ -1,2 +1,2 @@
-# images
-Images that i sometimes put on here.
+# bonny
+silly image of a rabbit
